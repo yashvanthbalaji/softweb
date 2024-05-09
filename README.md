@@ -30,6 +30,7 @@ Publish the website in the given URL.
 ## PROGRAM:
 
 website.html
+
 ```
 
 
@@ -141,6 +142,8 @@ website.html
 ```
 
 plan.html
+
+```
 
 <html>
 <head>
@@ -334,9 +337,12 @@ plan.html
       </footer>
 </body>
 </html>
+
 ```
-```
+
 doctors.html
+
+```
 
 <html>
 <head>
@@ -517,6 +523,8 @@ doctors.html
 
 contacts.html
 
+```
+
 <html>
 <head>
     <title>Contact</title>
@@ -674,6 +682,7 @@ contacts.html
 </body>
 </html>
 ```
+
 
 
 
